@@ -1,0 +1,1 @@
+probando git status --short --> M main/file1.txt
