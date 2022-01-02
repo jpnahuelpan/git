@@ -1,1 +1,2 @@
 probando git status --short --> M main/file1.txt
+probando git commit -m "msg" --date="2022-01-01" (real 2022-01-24)
