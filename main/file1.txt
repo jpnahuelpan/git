@@ -1,2 +1,11 @@
 probando git status --short --> M main/file1.txt
 probando git commit -m "msg" --date="2022-01-01" (real 2022-01-24)
+
+
+
+
+
+# # Aquí va el contenido desarrollado en el branch develop
+# se modificaron las credenciales en 'config' para poder 
+# desarrollar en un entorno local.
+1- se agrego funcionalidad x en el archivo file2.txt.
